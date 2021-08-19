@@ -26,7 +26,7 @@
         <div class="col-md-6">
           <h6>
             <b>
-              #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+              #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
               <br />East Tambaram,Selaiyur, Chennai-600 073.
               <br />Phone: 9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail: puja_prince@yahoo.com
             </b>
@@ -60,7 +60,7 @@
           <b>
             <p class="text-xs-center">
               GSTIN No. 33AEJPU3179H1Z5
-              <br />LUT ARN NO. & DATE: AD3303190087436(29-03-19)
+              <br />LUT ARN NO. & DATE: AD330321020263X(26/03/2021)
             </p>
           </b>
         </div>
@@ -98,7 +98,7 @@
             <th>
               <h6>
                 <b>
-                  #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+                  #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
                   <br />East Tambaram,Selaiyur, Chennai-600 073.
                   <br />Phone:
                   9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail:
@@ -134,7 +134,7 @@
                 <b>
                   <p class="text-xs-center">
                     GSTIN No. 33AEJPU3179H1Z5
-                    <br />LUT ARN NO.& DATE: AD330520002614S(15/05/2020)
+                    <br />LUT ARN NO.& DATE: AD330321020263X(26/03/2021)
                   </p>
                 </b>
               </h6>
@@ -218,7 +218,7 @@
             <th style="border-color:white;padding: 0px;" colspan="2">
               <h6>
                 <b>
-                  #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+                  #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
                   <br />East Tambaram,Selaiyur, Chennai-600 073.
                   <br />Phone:
                   9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail:
@@ -249,7 +249,7 @@
                 <b>
                   <p class="text-xs-center">
                     GSTIN No. 33AEJPU3179H1Z5
-                    <br/>LUT ARN NO.& DATE: AD330520002614S(15/05/2020)
+                    <br/>LUT ARN NO.& DATE: AD330321020263X(26/03/2021)
                   </p>
                 </b>
               </h6>
@@ -354,27 +354,87 @@ export default {
         {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
         },
         {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
         },
         {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
         },
         {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
         },
         {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
+        },
+        {
+          HSNCode: "",
+          Particulars: "",
+          Quantity: ""
         }
       ],
       step: 1,
@@ -391,7 +451,7 @@ export default {
         let item = {
           HSNCode: "",
           Particulars: "",
-          Quantity: 0
+          Quantity: ""
         };
 
         this.items.push(item);

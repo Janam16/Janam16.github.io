@@ -23,7 +23,7 @@
         <div class="col-md-6">
           <h6>
             <b>
-              #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+              #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
               <br />East Tambaram,Selaiyur, Chennai-600 073.
               <br />Phone: 9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail: puja_prince@yahoo.com
             </b>
@@ -95,7 +95,7 @@
             <th>
               <h6>
                 <b>
-                  #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+                  #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
                   <br />East Tambaram,Selaiyur, Chennai-600 073. <br />Phone:
                   9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail:
                   puja_prince@yahoo.com
@@ -130,7 +130,7 @@
                 <b>
                   <p class="text-xs-center">
                     GSTIN No. 33AEJPU3179H1Z5
-                    <br />LUT ARN NO.& DATE: AD330520002614S(15/05/2020)
+                    <br />LUT ARN NO.& DATE: AD330321020263X(26/03/2021)
                   </p>
                 </b>
               </h6>
@@ -220,7 +220,7 @@
             <th style="border-color:white;padding: 0px;" colspan="2">
               <h6>
                 <b>
-                  #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+                  #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
                   <br />East Tambaram,Selaiyur, Chennai-600 073. <br />Phone:
                   9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail:
                   puja_prince@yahoo.com
@@ -250,7 +250,7 @@
                 <b>
                   <p class="text-xs-center">
                     GSTIN No. 33AEJPU3179H1Z5
-                    <br />LUT ARN NO.& DATE: AD330520002614S(15/05/2020)
+                    <br />LUT ARN NO.& DATE: AD330321020263X(26/03/2021)
                   </p>
                 </b>
               </h6>
@@ -366,36 +366,120 @@
         items: [{
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
             Amount: ""
           },
           {
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
             Amount: ""
           },
           {
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
             Amount: ""
           },
           {
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
             Amount: ""
           },
           {
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
+            Amount: ""
+          },
+          {
+            HSNCode: "",
+            Particulars: "",
+            Quantity: "",
+            Rate: "",
             Amount: ""
           }
         ],
@@ -413,8 +497,8 @@
           let item = {
             HSNCode: "",
             Particulars: "",
-            Quantity: 0,
-            Rate: 0,
+            Quantity: "",
+            Rate: "",
             Amount: ""
           };
 
@@ -601,6 +685,10 @@
   #bill-final
   {
     margin-bottom: 0px;
+  }
+  #bill-final tr
+  {
+    line-height: 35px;
   }
   .sign-table, .sign-table td, .bold-outline {
     border: 2px solid black;

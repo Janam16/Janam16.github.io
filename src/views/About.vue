@@ -9,7 +9,7 @@
       </div>
       <h5>
         <b>
-          #3, Amman Complex, 4th Ranganathan Nagar,Agaram Main Road,
+          #4, Amman Complex, Shop No.3, Ranganathan Nagar,Agaram Main Road,
           <br />East Tambaram,Selaiyur, Chennai-600 073.
           <br />Phone: 9787419494 &nbsp;&nbsp;&nbsp;&nbsp; EMail: puja_prince@yahoo.com
           <br />
